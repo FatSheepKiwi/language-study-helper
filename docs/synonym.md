@@ -1,6 +1,12 @@
 # Synonym
 
 - [Synonym](#synonym)
+  - [不足；](#不足)
+  - [使混乱，使困惑；](#使混乱使困惑)
+  - [膨胀，扩张；](#膨胀扩张)
+  - [奢侈的，挥霍的，浪费的；](#奢侈的挥霍的浪费的)
+  - [放弃；](#放弃)
+  - [悲哀的，悲伤的；](#悲哀的悲伤的)
   - [秘密的；](#秘密的)
   - [避开；躲避；](#避开躲避)
   - [冷淡的](#冷淡的)
@@ -11,6 +17,414 @@
   - [花哨的；艳俗的；](#花哨的艳俗的)
   - [假的；伪造；](#假的伪造)
   - [挑剔；吹毛求疵](#挑剔吹毛求疵)
+
+## 不足；
+
+[**dearth**](#dearth)<br>
+[**deficiency**](#deficiency)<br>
+[**scarce**](#scarce)<br>
+[**lack**](#lack)<br>
+[**shortage**](#shortage)<br>
+[**paucity**](#paucity)<br>
+[**privation**](#privation)<br>
+[**destitute**](#destitute)<br>
+
+### [dearth](https://www.bing.com/dict/search?q=dearth&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[sing]</font> **~ (of sth)**
+缺乏；不足 a lack of sth; the fact of there not being enough of sth
+
+### [deficiency](https://www.bing.com/dict/search?q=deficiency&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[u][c]</font> **~ (in/of sth)**
+缺乏；缺少；不足 the state of not having, or not having enough of, sth that is essential
+2. <font color=#cc0000>[c]</font> **~ (in/of sth)**
+缺点；缺陷 a fault or a weakness in sth/sb that makes it or them less successful
+
+### [scarce](https://www.bing.com/dict/search?q=scarce&mkt=zh-cn)
+
+**adj.**
+
+1. 缺乏的；不足的；稀少的 if sth is scarce  , there is not enough of it and it is only available in small quantities
+
+**adv.**
+
+1. 勉强；刚；几乎不；简直不 only just; almost not
+
+### [lack](https://www.bing.com/dict/search?q=lack&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[u][sing]</font> **~ (of sth)**
+缺乏；匮乏；短缺 the state of not having sth or not having enough of sth
+
+**v.**
+
+1. <font color=#cc0000>[nopass]</font> **~ sth**
+没有；缺乏；不足；短缺 to have none or not enough of sth
+
+### [shortage](https://www.bing.com/dict/search?q=shortage&mkt=zh-cn)
+
+**n.**
+
+1. 不足；缺少；短缺 a situation when there is not enough of the people or things that are needed
+
+### [paucity](https://www.bing.com/dict/search?q=paucity&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[sing]</font> **~ (of sth)**
+少量；少许；贫乏 a small amount of sth; less than enough of sth
+
+### [privation](https://www.bing.com/dict/search?q=privation&mkt=zh-cn)
+
+**n.**
+
+1. 贫困；匮乏；艰难 a lack of the basic things that people need for living
+
+### [destitute](https://www.bing.com/dict/search?q=destitute&mkt=zh-cn)
+
+**adj.**
+
+1. 贫困的；贫穷的；赤贫的 without money, food and the other things necessary for life
+2. **~ of sth**
+缺乏；没有；毫无 lacking sth
+
+**n.**
+
+1. <font color=#cc0000>[pl]</font> 穷人；贫民 people who are destitute
+
+## 使混乱，使困惑；
+
+[**bemuse**](#bemuse)<br>
+[**bewilder**](#bewilder)<br>
+[**discombobulate**](#discombobulate)<br>
+[**muddle**](#muddle)<br>
+[**befuddle**](#befuddle)<br>
+[**obfuscate**](#obfuscate)<br>
+[**flummox**](#flummox)<br>
+[**mystify**](#mystify)<br>
+
+### [bemuse](https://www.bing.com/dict/search?q=bemuse&mkt=zh-cn)
+1. v. 使迷迷糊糊；使发呆；使着迷
+2. 网络释义： 困惑；茫然；使昏头昏脑
+
+### [bewilder](https://www.bing.com/dict/search?q=bewilder&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[usupass]</font> **~ sb**
+使迷惑；使糊涂 to confuse sb
+
+### [discombobulate](https://www.bing.com/dict/search?q=discombobulate&mkt=zh-cn)
+1. v. 〈美口〉破坏
+2. 网络释义： 扰乱；使混乱；使困惑
+
+### [muddle](https://www.bing.com/dict/search?q=muddle&mkt=zh-cn)
+
+**v.**
+
+1. 弄乱；搅混 to put things in the wrong order or mix them up
+2. **~ sb (up)**
+使困惑；使糊涂 to confuse sb
+3. **~ sb/sth (up)**
+混淆；搅混；分不清 to confuse one person or thing with another
+
+**n.**
+
+1. <font color=#cc0000>[c][ususing]</font> 糊涂；困惑；茫然 a state of mental confusion
+2. <font color=#cc0000>[c][ususing][u]</font> **~ (about/over sth)**
+（局面）一团糟，混乱 a situation in which there is confusion about arrangements, etc. and things are done wrong
+3. <font color=#cc0000>[c][ususing][u]</font> 混乱；乱七八糟 a state of confusion in which things are untidy
+
+### [befuddle](https://www.bing.com/dict/search?q=befuddle&mkt=zh-cn)
+1. v. 迷惑；使烂醉
+2. 网络释义： 使迷惑；使酒醉昏迷；使昏迷
+
+### [obfuscate](https://www.bing.com/dict/search?q=obfuscate&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> **~ (sth)**
+（故意地）混淆，使困惑，使模糊不清 to make sth less clear and more difficult to understand, usually deliberately
+
+### [flummox](https://www.bing.com/dict/search?q=flummox&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>(informal)</font> **~ sb**
+使困惑；使糊涂 to confuse sb so that they do not know what to say or do
+
+### [mystify](https://www.bing.com/dict/search?q=mystify&mkt=zh-cn)
+
+**v.**
+
+1. **~ sb**
+迷惑；使迷惑不解；使糊涂 to make sb confused because they do not understand sth
+
+## 膨胀，扩张；
+
+[**swell**](#swell)<br>
+[**expand**](#expand)<br>
+[**dilate**](#dilate)<br>
+[**distend**](#distend)<br>
+[**extend**](#extend)<br>
+[**inflate**](#inflate)<br>
+[**bulk**](#bulk)<br>
+
+### [swell](https://www.bing.com/dict/search?q=swell&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> **~ (up)**
+膨胀；肿胀 to become bigger or rounder
+2. <font color=#cc0000>[i][t]</font> （使）凸出，鼓出 to curve out or make sth curve out
+3. <font color=#cc0000>[t][i]</font> （使）增加，增大，扩大 to increase or make sth increase in number or size
+4. <font color=#cc0000>[i]</font> 变得更响亮；增强 to become louder
+5. <font color=#cc0000>[i]</font> **~ (with sth)**
+充满（激情） to be filled with a strong emotion
+
+**n.**
+
+1. <font color=#cc0000>[c][ususing]</font> 海浪的涌动；涌浪 the movement of the sea when it rises and falls without the waves breaking
+2. <font color=#cc0000>[sing]</font> （尤指身体部位）凸起的形状，鼓出处，隆起处 the curved shape of sth, especially a part of the body
+3. <font color=#cc0000>[sing]</font> 增加；增大；扩大；增强 a situation in which sth increases in size, number, strength, etc.
+4. <font color=#cc0000>[sing]</font> 逐渐增强 a gradual increase in the volume of sth
+5. <font color=#cc0000>(informal)</font> 重要人士；时髦人物 an important or fashionable person
+
+**adj.**
+
+1. <font color=#cc0000>(informal)</font> 很愉快的；极有趣的 very good, enjoyable, etc.
+
+### [expand](https://www.bing.com/dict/search?q=expand&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> 扩大，增加，增强（尺码、数量或重要性） to become greater in size, number or importance; to make sth greater in size, number or importance
+2. <font color=#cc0000>[i][t]</font> 扩展，发展（业务） if a business expands  or is expanded  , new branches are opened, it makes more money, etc.
+3. <font color=#cc0000>[i]</font> 细谈；详述；详细阐明 to talk more; to add details to what you are saying
+
+### [dilate](https://www.bing.com/dict/search?q=dilate&mkt=zh-cn)
+
+**v.**
+
+1. 扩大；（使）膨胀，扩张 to become or to make sth larger, wider or more open
+
+### [distend](https://www.bing.com/dict/search?q=distend&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> **~ (sth)**
+（使）膨胀，肿胀 to swell or make sth swell because of pressure from inside
+
+### [extend](https://www.bing.com/dict/search?q=extend&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[t]</font> **~ sth**
+使伸长；扩大；扩展 to make sth longer or larger
+2. <font color=#cc0000>[t]</font> **~ sth**
+延长；使延期 to make sth last longer
+3. <font color=#cc0000>[t]</font> **~ sth**
+扩大…的范围（或影响） to make a business, an idea, an influence, etc. cover more areas or operate in more places
+4. <font color=#cc0000>[i]</font> **+ adv./prep.**
+适用于；包括 to relate to or include sb/sth
+5. <font color=#cc0000>[i]</font> **+ adv./prep.**
+涉及（范围）；延伸（距离）；延续（时间） to cover a particular area, distance or length of time
+6. <font color=#cc0000>[i]</font> **+ adv./prep.**
+使达到；使延伸 to make sth reach sth or stretch
+7. <font color=#cc0000>[t]</font> **~ sth**
+伸展，舒展，展开（尤指手臂或腿） to stretch part of your body, especially an arm or a leg, away from yourself
+8. <font color=#cc0000>[t]</font> 提供；给予 to offer or give sth to sb
+9. <font color=#cc0000>[t][oftpass]</font> **~ sb/sth/yourself**
+使竭尽全力 to make sb/sth use all their effort, abilities, supplies, etc.
+
+### [inflate](https://www.bing.com/dict/search?q=inflate&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[t][i]</font> **~ (sth)**
+使充气；膨胀 to fill sth or become filled with gas or air
+2. <font color=#cc0000>[t]</font> **~ sth**
+鼓吹；吹捧 to make sth appear to be more important or impressive than it really is
+3. <font color=#cc0000>[t][i]</font> **~ (sth)**
+（使）涨价 to increase the price of sth; to increase in price
+
+### [bulk](https://www.bing.com/dict/search?q=bulk&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[sing]</font> **the ~ (of sth)**
+主体；大部分 the main part of sth; most of sth
+2. <font color=#cc0000>[u]</font> （大）体积；大（量） the (large) size or quantity of sth
+3. <font color=#cc0000>[sing]</font> 巨大的体重（或重量、形状、身体等） the weight or shape of sb/sth large
+
+**v.**
+
+1. 扩展；增大；堆积起来；形成大块
+
+## 奢侈的，挥霍的，浪费的；
+
+[**lavish**](#lavish)<br>
+[**extravagant**](#extravagant)<br>
+[**squander**](#squander)<br>
+[**prodigal**](#prodigal)<br>
+[**prodigious**](#prodigious)<br>
+[**luxury**](#luxury)<br>
+
+### [lavish](https://www.bing.com/dict/search?q=lavish&mkt=zh-cn)
+
+**adj.**
+
+1. 大量的；给人印象深刻的；耗资巨大的 large in amount, or impressive, and usually costing a lot of money
+2. **~ (with/in sth)**
+慷慨的；大方的 giving or doing sth generously
+
+**v.**
+1. 浪费；挥霍
+2. 慷慨给予
+
+### [extravagant](https://www.bing.com/dict/search?q=extravagant&mkt=zh-cn)
+
+**adj.**
+
+1. 奢侈的；挥霍的；铺张浪费的 spending a lot more money or using a lot more of sth than you can afford or than is necessary
+2. 过于昂贵的 costing a lot more money than you can afford or is necessary
+3. 无节制的；过分的；放肆的；不切实际的 very extreme or impressive but not reasonable or practical
+
+### [squander](https://www.bing.com/dict/search?q=squander&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth (on sb/sth)**
+浪费，挥霍（金钱、时间等） to waste money, time, etc. in a stupid or careless way
+
+### [prodigal](https://www.bing.com/dict/search?q=prodigal&mkt=zh-cn)
+
+**adj.**
+
+1. 浪费的；挥霍的；大手大脚的 too willing to spend money or waste time, energy or materials
+
+### [prodigious](https://www.bing.com/dict/search?q=prodigious&mkt=zh-cn)
+
+**adj.**
+
+1. 巨大的；伟大的 very large or powerful and causing surprise or admiration
+
+### [luxury](https://www.bing.com/dict/search?q=luxury&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[u]</font> 奢侈的享受；奢华 the enjoyment of special and expensive things, particularly food and drink, clothes and surroundings
+2. <font color=#cc0000>[c]</font> 奢侈品 a thing that is expensive and enjoyable but not essential
+3. <font color=#cc0000>[u][sing]</font> 不常有的乐趣（或享受、优势） a pleasure or an advantage that you do not often have
+
+## 放弃；
+
+[**abandon**](#abandon)<br>
+[**forgo**](#forgo)<br>
+[**forsake**](#forsake)<br>
+[**forswear**](#forswear)<br>
+[**renounce**](#renounce)<br>
+[**relinquish**](#relinquish)<br>
+
+### [abandon](https://www.bing.com/dict/search?q=abandon&mkt=zh-cn)
+
+**v.**
+
+1. （不顾责任、义务等）离弃，遗弃，抛弃 to leave sb, especially sb you are responsible for, with no intention of returning
+2. （不得已而）舍弃，丢弃，离开 to leave a thing or place, especially because it is impossible or dangerous to stay
+3. **~ sth**
+中止；放弃；不再有 to stop doing sth, especially before it is finished; to stop having sth
+4. 停止（支持或帮助）；放弃（信念） to stop supporting or helping sb; to stop believing in sth
+5. **~ yourself to sth**
+陷入，沉湎于（某种情感） to feel an emotion so strongly that you can feel nothing else
+
+**n.**
+
+1. <font color=#cc0000>[u]</font> 放任；放纵 an uncontrolled way of behaving that shows that sb does not care what other people think
+
+### [forgo](https://www.bing.com/dict/search?q=forgo&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth**
+放弃，弃绝（想做的事或想得之物） to decide not to have or do sth that you would like to have or do
+
+### [forsake](https://www.bing.com/dict/search?q=forsake&mkt=zh-cn)
+
+**v.**
+
+1. **~ sb/sth (for sb/sth)**
+抛弃，遗弃，离开（尤指不履行责任） to leave sb/sth, especially when you have a responsibility to stay
+2. **~ sth (for sb/sth)**
+摒弃，离开（尤指喜爱的事物） to stop doing sth, or leave sth, especially sth that you enjoy
+
+### [forswear](https://www.bing.com/dict/search?q=forswear&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth**
+放弃；发誓戒除 to stop doing or using sth; to make a promise that you will stop doing or using sth
+
+### [renounce](https://www.bing.com/dict/search?q=renounce&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth**
+声明放弃；宣布放弃 to state officially that you are no longer going to keep a title, position, etc.
+2. **~ sth**
+宣布与…决裂；宣布摒弃 to state publicly that you no longer have a particular belief or that you will no longer behave in a particular way
+3. **~ sb/sth**
+宣布断绝与…的关系 to state publicly that you no longer wish to have a connection with sb/sth because you disapprove of them
+
+### [relinquish](https://www.bing.com/dict/search?q=relinquish&mkt=zh-cn)
+
+**v.**
+
+1. （尤指不情愿地）放弃 to stop having sth, especially when this happens unwillingly
+
+## 悲哀的，悲伤的；
+
+[**dolorous**](#dolorous)<br>
+[**doleful**](#doleful)<br>
+[**lugubrious**](#lugubrious)<br>
+[**mournful**](#mournful)<br>
+[**lamentable**](#lamentable)<br>
+
+### [dolorous](https://www.bing.com/dict/search?q=dolorous&mkt=zh-cn)
+
+**adj.**
+
+1. 悲痛的；悲哀的 feeling or showing great sadness
+
+### [doleful](https://www.bing.com/dict/search?q=doleful&mkt=zh-cn)
+
+**adj.**
+
+1. 忧郁的；悲伤的 very sad
+
+### [lugubrious](https://www.bing.com/dict/search?q=lugubrious&mkt=zh-cn)
+
+**adj.**
+
+1. 阴郁的；悲伤的 sad and serious
+
+### [mournful](https://www.bing.com/dict/search?q=mournful&mkt=zh-cn)
+
+**adj.**
+
+1. 忧伤的；悲痛的 very sad
+
+### [lamentable](https://www.bing.com/dict/search?q=lamentable&mkt=zh-cn)
+
+**adj.**
+
+1. 十分令人失望的；令人遗憾的；使人惋惜的 very disappointing
 
 ## 秘密的；
 
