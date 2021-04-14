@@ -1,9 +1,6 @@
-不足；
-dearth
-deficiency
-scarce
-lack
-shortage
-paucity
-privation
-destitute
+假设，猜想，推测；
+assume
+presume
+suppose
+guess
+postulate

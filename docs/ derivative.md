@@ -1,3 +1,0 @@
-# Derivative
-
-**Table of Contents**

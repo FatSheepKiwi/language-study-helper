@@ -1,6 +1,13 @@
 # Synonym
 
 - [Synonym](#synonym)
+  - [假设，猜想，推测；](#假设猜想推测)
+  - [和蔼可亲的；](#和蔼可亲的)
+  - [抨击，谴责；](#抨击谴责)
+  - [诽谤，中伤；](#诽谤中伤)
+  - [各种🐴；](#各种)
+  - [加强，增强；](#加强增强)
+  - [蹒跚；](#蹒跚)
   - [不足；](#不足)
   - [使混乱，使困惑；](#使混乱使困惑)
   - [膨胀，扩张；](#膨胀扩张)
@@ -17,6 +24,487 @@
   - [花哨的；艳俗的；](#花哨的艳俗的)
   - [假的；伪造；](#假的伪造)
   - [挑剔；吹毛求疵](#挑剔吹毛求疵)
+
+## 假设，猜想，推测；
+
+[**assume**](#assume)<br>
+[**presume**](#presume)<br>
+[**suppose**](#suppose)<br>
+[**guess**](#guess)<br>
+[**postulate**](#postulate)<br>
+
+### [assume](https://www.bing.com/dict/search?q=assume&mkt=zh-cn)
+
+**v.**
+
+1. 假定；假设；认为 to think or accept that sth is true but without having proof of it
+2. **~ sth**
+承担（责任）；就（职）；取得（权力） to take or begin to have power or responsibility
+3. **~ sth**
+呈现（外观、样子）；显露（特征） to begin to have a particular quality or appearance
+4. **~ sth**
+装出；假装 to pretend to have a particular feeling or quality
+
+### [presume](https://www.bing.com/dict/search?q=presume&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> 假设；假定 to suppose that sth is true, although you do not have actual proof
+2. <font color=#cc0000>[t]</font> （尤指法庭上）推定，假定 to accept that sth is true until it is shown not to be true, especially in court
+3. <font color=#cc0000>[t]</font> **~ sth**
+设定；设想；假设 to accept sth as true or existing and to act on that basis
+4. <font color=#cc0000>[i]</font> **~ to do sth**
+妄行；越权行事 to behave in a way that shows a lack of respect by doing sth that you have no right to do
+
+### [suppose](https://www.bing.com/dict/search?q=suppose&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> （根据所知）认为，推断，料想 to think or believe that sth is true or possible (based on the knowledge that you have)
+2. <font color=#cc0000>[t]</font> 假定；假设；设想 to pretend that sth is true; to imagine what would happen if sth were true
+3. <font color=#cc0000>[i][t]</font> （婉转表达）我看，要我说，要不 used to make a statement, request or suggestion less direct or less strong
+
+### [guess](https://www.bing.com/dict/search?q=guess&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> 猜测；估计 to try and give an answer or make a judgement about sth without being sure of all the facts
+2. <font color=#cc0000>[t]</font> 猜对；猜中；猜到 to find the right answer to a question or the truth without knowing all the facts
+3. <font color=#cc0000>[t][i]</font> <font color=#cc0000>(informal)</font> **~ (that)…**
+想；以为 to suppose that sth is true or likely
+4. <font color=#cc0000>[t]</font> **~ sth**
+（引出令人惊奇或激动的事）你猜 used to show that you are going to say sth surprising or exciting
+
+**n.**
+
+1. 猜测；猜想 an attempt to give an answer or an opinion when you cannot be certain if you are right
+
+### [postulate](https://www.bing.com/dict/search?q=postulate&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth**
+假定；假设 to suggest or accept that sth is true so that it can be used as the basis for a theory, etc.
+
+**n.**
+
+1. 假定；假设 a statement that is accepted as true, that forms the basis of a theory, etc.
+
+## 和蔼可亲的；
+
+[**affable**](#affable)<br>
+[**genial**](#genial)<br>
+[**amiable**](#amiable)<br>
+[**amicable**](#amicable)<br>
+[**benevolent**](#benevolent)<br>
+[**benign**](#benign)<br>
+[**courteous**](#courteous)<br>
+
+### [affable](https://www.bing.com/dict/search?q=affable&mkt=zh-cn)
+
+**adj.**
+
+1. 和蔼可亲的；平易近人的 pleasant, friendly and easy to talk to
+
+### [genial](https://www.bing.com/dict/search?q=genial&mkt=zh-cn)
+
+**adj.**
+
+1. 友好的；亲切的；欢快的 friendly and cheerful
+
+### [amiable](https://www.bing.com/dict/search?q=amiable&mkt=zh-cn)
+
+**adj.**
+
+1. 和蔼可亲的；亲切友好的 pleasant; friendly and easy to like
+
+### [amicable](https://www.bing.com/dict/search?q=amicable&mkt=zh-cn)
+
+**adj.**
+
+1. 心平气和的；友善的 done or achieved in a polite or friendly way and without arguing
+
+### [benevolent](https://www.bing.com/dict/search?q=benevolent&mkt=zh-cn)
+
+**adj.**
+
+1. 慈善的；行善的；乐善好施的 kind, helpful and generous
+2. （用于慈善机构名称） used in the names of some organizations that give help and money to people in need
+
+### [benign](https://www.bing.com/dict/search?q=benign&mkt=zh-cn)
+
+**adj.**
+
+1. 善良的；和善的；慈祥的 kind and gentle; not hurting anybody
+2. 良性的 not dangerous or likely to cause death
+
+### [courteous](https://www.bing.com/dict/search?q=courteous&mkt=zh-cn)
+
+**adj.**
+
+1. 有礼貌的；客气的；（尤指）恭敬的，谦恭的 polite, especially in a way that shows respect
+
+## 抨击，谴责；
+
+[**chide**](#chide)<br>
+[**fulminate**](#fulminate)<br>
+[**deprecate**](#deprecate)<br>
+[**berate**](#berate)<br>
+[**denounce**](#denounce)<br>
+[**castigate**](#castigate)<br>
+[**inveigh**](#inveigh)<br>
+
+### [chide](https://www.bing.com/dict/search?q=chide&mkt=zh-cn)
+
+**v.**
+
+1. 批评；指责；责备 to criticize or blame sb because they have done sth wrong
+
+### [fulminate](https://www.bing.com/dict/search?q=fulminate&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> **~ against (sb/sth)**
+愤怒谴责；怒斥 to criticize sb/sth angrily
+
+### [deprecate](https://www.bing.com/dict/search?q=deprecate&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth**
+对…表示极不赞成；强烈反对 to feel and express strong disapproval of sth
+
+### [berate](https://www.bing.com/dict/search?q=berate&mkt=zh-cn)
+
+**v.**
+
+1. **~ sb/yourself**
+痛斥；严厉指责 to criticize or speak angrily to sb because you do not approve of sth they have done
+
+### [denounce](https://www.bing.com/dict/search?q=denounce&mkt=zh-cn)
+
+**v.**
+
+1. 谴责；指责；斥责 to strongly criticize sb/sth that you think is wrong, illegal, etc.
+2. 告发（某人从事非法政治活动） to tell the police, the authorities, etc. about sb's illegal political activities
+
+### [castigate](https://www.bing.com/dict/search?q=castigate&mkt=zh-cn)
+
+**v.**
+
+1. **~ sb/sth/yourself (for sth)**
+严厉批评；申斥 to criticize sb/sth severely
+
+### [inveigh](https://www.bing.com/dict/search?q=inveigh&mkt=zh-cn)
+1. v. 痛骂
+2. 网络释义： 猛烈抨击；漫骂；谩骂
+
+## 诽谤，中伤；
+
+[**calumniate**](#calumniate)<br>
+[**calumny**](#calumny)<br>
+[**aspersion**](#aspersion)<br>
+[**vilify**](#vilify)<br>
+[**slander**](#slander)<br>
+[**defame**](#defame)<br>
+
+### [calumniate](https://www.bing.com/dict/search?q=calumniate&mkt=zh-cn)
+1. v. 诽谤
+2. 网络释义： 毁谤；恶意中伤；污蔑
+
+### [calumny](https://www.bing.com/dict/search?q=calumny&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[c]</font> 诬蔑，诽谤（的言论） a false statement about a person that is made to damage their reputation
+2. <font color=#cc0000>[u]</font> 诬蔑，诽谤（的行为） the act of making such a statement
+
+### [aspersion](https://www.bing.com/dict/search?q=aspersion&mkt=zh-cn)
+1. n. 中伤；【天主】洒圣水
+2. 网络释义： 诽谤；洒水；洒水礼
+
+### [vilify](https://www.bing.com/dict/search?q=vilify&mkt=zh-cn)
+
+**v.**
+
+1. **~ sb/sth (as sth)**
+污蔑；诽谤；诋毁；中伤 to say or write unpleasant things about sb/sth so that other people will have a low opinion of them
+
+### [slander](https://www.bing.com/dict/search?q=slander&mkt=zh-cn)
+
+**n.**
+
+1. <font color=#cc0000>[c][u]</font> 口头诽谤；口头诽谤罪 a false spoken statement intended to damage the good opinion people have of sb; the legal offence of making this kind of statement
+
+**v.**
+
+1. **~ sb/sth**
+口头诽谤；诋毁；中伤 to make a false spoken statement about sb that is intended to damage the good opinion that people have of them
+
+### [defame](https://www.bing.com/dict/search?q=defame&mkt=zh-cn)
+
+**v.**
+
+1. **~ sb/sth**
+诬蔑；诽谤；中伤 to harm sb by saying or writing bad or false things about them
+
+## 各种🐴；
+
+[**horse**](#horse)<br>
+[**stallion**](#stallion)<br>
+[**mare**](#mare)<br>
+[**cob**](#cob)<br>
+[**steed**](#steed)<br>
+[**pony**](#pony)<br>
+[**colt**](#colt)<br>
+
+### [horse](https://www.bing.com/dict/search?q=horse&mkt=zh-cn)
+
+**n.**
+
+1. 马 a large animal with four legs, a mane (= long thick hair on its neck) and a tail. Horses are used for riding on, pulling carriages , etc.
+2. <font color=#cc0000>[pl]</font> <font color=#cc0000>(informal)</font> 赛马 horse racing
+
+**v.**
+
+
+### [stallion](https://www.bing.com/dict/search?q=stallion&mkt=zh-cn)
+
+**n.**
+
+1. 牡马；（尤指）种马 a fully grown male horse, especially one that is used for breeding
+
+### [mare](https://www.bing.com/dict/search?q=mare&mkt=zh-cn)
+
+**n.**
+
+1. 母马；母驴 a female horse or donkey
+
+### [cob](https://www.bing.com/dict/search?q=cob&mkt=zh-cn)
+
+**n.**
+
+1. 短腿壮马 a strong horse with short legs
+2. 圆面包 a round loaf of bread
+
+### [steed](https://www.bing.com/dict/search?q=steed&mkt=zh-cn)
+
+**n.**
+
+1. 坐骑 a horse to ride on
+
+### [pony](https://www.bing.com/dict/search?q=pony&mkt=zh-cn)
+
+**n.**
+
+1. 小型马；矮马 a type of small horse
+2. 25 英镑 £25
+
+
+### [colt](https://www.bing.com/dict/search?q=colt&mkt=zh-cn)
+
+**n.**
+
+1. （四或五岁以下的）雄马驹 a young male horse up to the age of four or five
+2. （年轻运动队的）队员 a member of a sports team consisting of young players
+3. 科耳特左轮手枪 a type of small gun
+
+## 加强，增强；
+
+[**enforce**](#enforce)<br>
+[**reinforce**](#reinforce)<br>
+[**strengthen**](#strengthen)<br>
+[**aggravate**](#aggravate)<br>
+[**enhance**](#enhance)<br>
+[**heighten**](#heighten)<br>
+[**intensify**](#intensify)<br>
+[**tighten**](#tighten)<br>
+[**consolidate**](#consolidate)<br>
+
+### [enforce](https://www.bing.com/dict/search?q=enforce&mkt=zh-cn)
+
+**v.**
+
+1. **~ sth (on/against sb/sth)**
+强制执行，强行实施（法律或规定） to make sure that people obey a particular law or rule
+2. **~ sth (on sb)**
+强迫；迫使 to make sth happen or force sb to do sth
+
+### [reinforce](https://www.bing.com/dict/search?q=reinforce&mkt=zh-cn)
+
+> 加强某种感觉、情绪或想法；加固材料或建筑物；增强军事力量
+
+**v.**
+
+1. **~ sth**
+加强；充实；使更强烈 to make a feeling, an idea, etc. stronger
+2. **~ sth**
+加固；使更结实 to make a structure or material stronger, especially by adding another material to it
+3. **~ sth**
+给…加强力量（或装备）；使更强大 to send more people or equipment in order to make an army, etc. stronger
+
+### [strengthen](https://www.bing.com/dict/search?q=strengthen&mkt=zh-cn)
+
+**v.**
+
+1. 加强；增强；巩固 to become stronger; to make sb/sth stronger
+
+### [aggravate](https://www.bing.com/dict/search?q=aggravate&mkt=zh-cn)
+
+> 加剧不快或困难的形势
+
+**v.**
+
+1. **~ sth**
+使严重；使恶化 to make an illness or a bad or unpleasant situation worse
+2. <font color=#cc0000>(informal)</font> **~ sb**
+（尤指故意地）激怒，惹恼 to annoy sb, especially deliberately
+
+### [enhance](https://www.bing.com/dict/search?q=enhance&mkt=zh-cn)
+
+> 侧重增加价值、魅力或声望等使人或物具有超乎寻常的吸引力
+
+**v.**
+
+1. **~ sth**
+提高；增强；增进 to increase or further improve the good quality, value or status of sb/sth
+
+### [heighten](https://www.bing.com/dict/search?q=heighten&mkt=zh-cn)
+
+> 通常指使某物的某种性质变得不同于一般的显著、突出
+
+**v.**
+
+1. （使）加强，提高，增加 if a feeling or an effect heightens, or sth heightens it, it becomes stronger or increases
+
+### [intensify](https://www.bing.com/dict/search?q=intensify&mkt=zh-cn)
+
+> 深化或强化某物的特别之处
+
+**v.**
+
+1. （使）加强，增强，加剧 to increase in degree or strength; to make sth increase in degree or strength
+
+### [tighten](https://www.bing.com/dict/search?q=tighten&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> （使）变紧，更加牢固 to become or make sth become tight or tighter
+2. <font color=#cc0000>[t]</font> **~ sth**
+使更加严格；加强 to make sth become stricter
+
+### [consolidate](https://www.bing.com/dict/search?q=consolidate&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[t][i]</font> **~ (sth)**
+使加强；使巩固 to make a position of power or success stronger so that it is more likely to continue
+2. <font color=#cc0000>[t][i]</font> **~ (sth)**
+（使）结成一体，合并 to join things together into one; to be joined into one
+
+## 蹒跚；
+
+[**wobble**](#wobble)<br>
+[**hobble**](#hobble)<br>
+[**limp**](#limp)<br>
+[**totter**](#totter)<br>
+[**stumble**](#stumble)<br>
+[**dodder**](#dodder)<br>
+[**toddle**](#toddle)<br>
+[**stagger**](#stagger)<br>
+[**falter**](#falter)<br>
+
+### [wobble](https://www.bing.com/dict/search?q=wobble&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> （使）摇摆，摇晃 to move from side to side in an unsteady way; to make sth do this
+2. <font color=#cc0000>[i]</font> **+ adv./prep.**
+一摇一摆地走 to go in a particular direction while moving from side to side in an unsteady way
+3. <font color=#cc0000>[i]</font> 犹豫不决；信心动摇 to hesitate or lose confidence about doing sth
+
+**n.**
+
+1. <font color=#cc0000>[ususing]</font> 松动；摇晃 a slight unsteady movement from side to side
+2. 犹豫不决；信心动摇 a moment when you hesitate or lose confidence about sth
+
+### [hobble](https://www.bing.com/dict/search?q=hobble&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> **(+ adv./prep.)**
+蹒跚；跛行 to walk with difficulty, especially because your feet or legs hurt
+2. <font color=#cc0000>[t]</font> **~ sth**
+捆绑（马等的）两腿（以防其走失） to tie together two legs of a horse or other animal in order to stop it from running away
+3. <font color=#cc0000>[t]</font> **~ sth**
+阻止；妨碍 to make it more difficult for sb to do sth or for sth to happen
+
+### [limp](https://www.bing.com/dict/search?q=limp&mkt=zh-cn)
+
+**adj.**
+
+1. 无力的；无生气的；无精神的 lacking strength or energy
+2. 柔软的；不直挺的 not stiff or firm
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> 瘸着走；跛行；蹒跚 to walk slowly or with difficulty because one leg is injured
+2. <font color=#cc0000>[i]</font> **+ adv./prep.**
+（受损后）缓慢行进，艰难地移动 to move slowly or with difficulty after being damaged
+
+**n.**
+
+1. <font color=#cc0000>[ususing]</font> 跛行 a way of walking in which one leg is used less than normal because it is injured or stiff
+
+### [totter](https://www.bing.com/dict/search?q=totter&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> **(+ adv./prep.)**
+蹒跚；踉跄；跌跌撞撞 to walk or move with weak unsteady steps, especially because you are drunk or ill/sick
+2. <font color=#cc0000>[i]</font> 摇摇欲坠；摇摇晃晃 to be weak and seem likely to fall
+
+### [stumble](https://www.bing.com/dict/search?q=stumble&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> 绊脚 to hit your foot against sth while you are walking or running and almost fall
+2. <font color=#cc0000>[i]</font> **+ adv./prep.**
+跌跌撞撞地走；蹒跚而行 to walk or move in an unsteady way
+3. <font color=#cc0000>[i]</font> **~ (over/through sth)**
+（不顺畅地）说，读，演奏 to make a mistake or mistakes and stop while you are speaking, reading to sb or playing music
+
+### [dodder](https://www.bing.com/dict/search?q=dodder&mkt=zh-cn)
+1. v. 蹒跚；抖颤；蹒跚而行
+2. n. 【植】菟丝子
+3. 网络释义： 摇摆；蚕豆菟丝子；寄生植物平原菟丝子
+
+### [toddle](https://www.bing.com/dict/search?q=toddle&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> （幼儿学步时）摇摇摆摆地走，蹒跚行走 when a young child who has just learnt to walk toddles  , he/she walks with short, unsteady steps
+2. <font color=#cc0000>[i]</font> <font color=#cc0000>(informal)</font> **+ adv./prep.**
+步行；去 to walk or go somewhere
+
+### [stagger](https://www.bing.com/dict/search?q=stagger&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i][t]</font> 摇摇晃晃地走；蹒跚；踉跄 to walk with weak unsteady steps, as if you are about to fall
+2. <font color=#cc0000>[t]</font> 使震惊；使大吃一惊 to shock or surprise sb very much
+3. <font color=#cc0000>[t]</font> **~ sth**
+使交错；使错开 to arrange for events that would normally happen at the same time to start or happen at different times
+
+### [falter](https://www.bing.com/dict/search?q=falter&mkt=zh-cn)
+
+**v.**
+
+1. <font color=#cc0000>[i]</font> 衰弱；衰退；衰落 to become weaker or less effective
+2. <font color=#cc0000>[i][t]</font> **(+ speech)**
+（嗓音）颤抖；结巴地说；支吾其词 to speak in a way that shows that you are not confident
+3. <font color=#cc0000>[i]</font> 蹒跚；摇晃；犹豫；畏缩 to walk or behave in a way that shows that you are not confident
+
 
 ## 不足；
 
